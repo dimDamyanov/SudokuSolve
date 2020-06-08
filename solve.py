@@ -27,7 +27,7 @@ def possible(y,x,n):
                 return False
     return True
     
-    def solve():
+def solve():
     global grid
     for y in range(9):
         for x in range(9):
